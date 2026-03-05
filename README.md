@@ -39,6 +39,11 @@ The key insight: if a technique is truly useful, the foundation companies (Anthr
 
 Found a useful agentic pattern? Open a PR.
 
+### Contributors & Inspiration
+
+- [@systematicls](https://x.com/systematicls) — Original article: ["How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)
+- [@danpeguine](https://x.com/danpeguine) — [Ready-to-use adversarial bug hunting prompts](https://x.com/danpeguine/status/2029268229030285589)
+
 ## License
 
 MIT
