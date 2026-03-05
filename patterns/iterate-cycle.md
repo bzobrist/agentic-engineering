@@ -70,3 +70,7 @@ Then you're back to magic. Repeat forever.
 ## The Key Insight
 
 This cycle is natural and expected. Don't fight it. Don't try to build the perfect setup on day one. Let it evolve through real usage.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

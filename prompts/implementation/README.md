@@ -34,3 +34,7 @@ Implement the approach described in `research-[topic].md`.
 ```
 
 The key insight: the implementation agent never sees the rejected alternatives. Its context is clean.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

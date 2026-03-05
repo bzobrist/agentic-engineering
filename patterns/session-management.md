@@ -46,3 +46,7 @@ This prevents the biggest source of agent errors: filling in gaps with assumptio
 - Debugging sessions where prior attempts inform next steps
 
 Even then, consider resetting if the agent starts acting confused.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

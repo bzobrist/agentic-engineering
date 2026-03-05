@@ -52,3 +52,7 @@ Read `rules/general.md` before any task.
 ```
 
 This forces the agent to load everything before it can write a single line of code.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

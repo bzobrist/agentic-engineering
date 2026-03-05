@@ -58,3 +58,7 @@ Rules and skills accumulate. Periodically:
 2. Consolidate overlapping skills
 3. Remove outdated rules (agent capabilities change with model updates)
 4. Ask the agent: "Review all rules and skills. Flag any contradictions or redundancies."
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

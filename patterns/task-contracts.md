@@ -50,3 +50,7 @@ is fully satisfied. You may NOT end the session until all criteria pass.
 ## For Long-Running Automation
 
 Create multiple contracts. Use a stop-hook that prevents session termination until all contracts are fulfilled. Better yet: one session per contract with fresh context each time.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)

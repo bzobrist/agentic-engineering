@@ -38,3 +38,7 @@ Sycophancy isn't always bad. When you KNOW there's an issue and want the agent t
 ```
 
 Use neutral prompts for discovery. Use biased prompts for targeted investigation.
+
+---
+
+Source: [@systematicls — "How To Be A World-Class Agentic Engineer"](https://x.com/systematicls/status/2028814227004395561)
